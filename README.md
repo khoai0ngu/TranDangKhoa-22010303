@@ -10,8 +10,7 @@ Dự án website bán điện máy được phát triển nhằm cung cấp nề
 - **Xem sản phẩm:** Danh sách sản phẩm theo danh mục, xem chi tiết sản phẩm.
 - **Giỏ hàng và thanh toán:** Thêm sản phẩm vào giỏ hàng, kiểm tra và thanh toán.
 - **Tìm kiếm:** Tìm kiếm sản phẩm theo tên, danh mục, khoảng giá.
-- **Liên hệ và hỗ trợ:** Trang liên hệ và phần câu hỏi thường gặp.
-
+- **Liên hệ và hỗ trợ:** Trang liên hệ và phần câu hỏi thường gặp
 ### 2. Trang quản trị
 - **Quản lý sản phẩm:** Thêm, sửa, xóa sản phẩm.
 - **Quản lý đơn hàng:** Xem và cập nhật trạng thái đơn hàng.
